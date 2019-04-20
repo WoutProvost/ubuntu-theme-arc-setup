@@ -11,6 +11,7 @@ sudo apt-get update
 ```Bash
 curl https://pixabay.com/get/e133b80a21f71c22d9584518a33219c8b66ae3d01cb4144597f3c67e/glacier-869593_1920.jpg > ~/Pictures/background.jpg
 ```
+If that doesn't work, open a browser and go to the following URL: https://pixabay.com/photos/glacier-mountain-snow-hillside-869593/.
 
 ## Profile picture
 ```Bash
