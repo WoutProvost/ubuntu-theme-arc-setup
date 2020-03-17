@@ -38,7 +38,7 @@ To disable mouse acceleration, launch Gnome Tweaks, go to the `Keyboard & Mouse`
 ```Bash
 sudo apt install gnome-shell-extensions
 ```
-Log out and log back in to reload the GNOME shell. Launch GNOME Tweaks, go to the `Extensions` tab, enable `User Themes`, relaunch GNOME Tweaks, go to the `Appearance` tab and select the `Arc-Dark` shell theme. Set the `Applications` theme to `Arc-Dark` and the `Icons` theme to `Pocillo`. Select the `background.jpg` image in the `Pictures` folder of your home directory for both the `Background Image` and the `Lock Screen Image`. Go to the `Top Bar` tab and enable `Clock Weekday` and `Clock Date`. Launch the computer settings, go to the `Details` tab, go to the `Users` tab and select the `profile.jpg` image in the `Pictures` folder of your home directory.
+Log out and log back in to reload the GNOME shell. Launch GNOME Tweaks, go to the `Extensions` tab, enable `User Themes`, relaunch GNOME Tweaks, go to the `Appearance` tab and select the `Arc-Dark` shell theme. Set the `Applications` theme to `Arc-Dark` and the `Icons` theme to `Pocillo`. Select the `background.jpg` image in the `Pictures` folder of your home directory for both the `Background Image` and the `Lock Screen Image`. Go to the `Top Bar` tab and enable `Clock Date`. Launch the computer settings, go to the `Details` tab, go to the `Users` tab and select the `profile.jpg` image in the `Pictures` folder of your home directory.
 
 ## Screenfetch
 ```Bash
