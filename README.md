@@ -8,7 +8,7 @@ sudo apt update
 ```
 
 ## Desktop background
-Open a browser and go to the following URL to download the image: https://pixabay.com/photos/glacier-mountain-snow-hillside-869593/. Put the image in the `Pictures` folder of your home directory and rename it to `background.jpg`.
+Open a browser and go to [this](https://pixabay.com/photos/glacier-mountain-snow-hillside-869593/) URL to download the image. Put the image in the `Pictures` folder of your home directory and rename it to `background.jpg`.
 
 ## Profile picture
 Put your desired profile picture in the `Pictures` folder of your home directory and rename it to `profile.jpg`.
