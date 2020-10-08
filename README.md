@@ -44,5 +44,6 @@ The `screenfetch` command should display `WM Theme: Arc-Dark`, `GTK Theme: Arc-D
 ## Ubuntu login background
 **Ubuntu 18.04:**
 Open `/usr/share/gnome-shell/theme/gdm3.css` and edit `#lockDialogGroup` by commenting out the existing `background` style and adding `background-color: #383c46;`. A reboot might be required for these changes to take effect.
+
 **Ubuntu 20.04:**
 See [this](https://github.com/PRATAP-KUMAR/focalgdm3) repo.
