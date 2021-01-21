@@ -41,6 +41,9 @@ sudo apt install screenfetch
 ```
 The `screenfetch` command should display `WM Theme: Arc-Dark`, `GTK Theme: Arc-Dark [GTK2/3]` and `Icon Theme: Pocillo`.
 
+## Terminal colors
+To use more readable colors for the dark terminal theme, launch Terminal, click the `Terminal` menu in the top bar, select the `Preferences` menu item, go to the tab with the current used profile, go to the `Colors` tab and select the `Solarized` palette.
+
 ## Ubuntu login background
 **Ubuntu 18.04:**
 Open `/usr/share/gnome-shell/theme/gdm3.css` and edit `#lockDialogGroup` by commenting out the existing `background` style and adding `background-color: #383c46;`. A reboot might be required for these changes to take effect.
